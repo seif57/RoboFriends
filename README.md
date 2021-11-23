@@ -1,5 +1,5 @@
 Note : Install React:npm install -g create-react-app
 
-RUN npm install
+RUN `npm install`
 
-Run npm Start
+Run `npm Start`
